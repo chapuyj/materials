@@ -3,6 +3,7 @@ Mes supports de présentation, d'atelier, etc.
 
 ## Talks
 
+- [2022-01 - Les pratiques tech qui peuvent aider votr équipe - Meetup Beyond Scrum Mastering](2022-01_Pratiques_tech_qui_peuvent_aider_votre_equipe)
 - [2022-01 - Initiation à l'Event Storming - ESGI Dev Day](2022-01_Event_Storming_ESGI)
 - [2021-10 - Prendre soin de ses tests - Meetup Cocoaheads Paris](2021-10_Prendre_soin_de_ses_tests)
 - [2020-02 - Pair-Programming avec ma PO - BECOM Agile](2020-02_Pair_Programming_avec_ma_PO)
